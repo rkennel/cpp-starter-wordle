@@ -1,0 +1,6 @@
+.DS_Store
+
+## Jetbrains
+.idea/
+cmake-build-debug/
+
